@@ -13,7 +13,7 @@
       <pubDate>Wed, 06 Oct 2021 14:55:10 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>这是我的第一篇博客 ##123</description>
+      <description>这是我的第一篇博客 ## 123</description>
     </item>
     
   </channel>
